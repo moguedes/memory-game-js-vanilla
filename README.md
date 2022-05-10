@@ -24,8 +24,8 @@
 
 <h3 id="access-project">📁 Access Project</h3>
 
-◽ <a href="https://github.com/moguedes/memory-game/tree/main">Access</a>🔗 the source code via GitHub. <br>
-◽ <a href="https://github.com/moguedes/memory-game/archive/refs/heads/main.zip">Download</a>🔗 the source code as a zip file..<br>
+◽ <a href="https://github.com/moguedes/memory-game-js-vanilla/tree/main">Access</a>🔗 the source code via GitHub. <br>
+◽ <a href="https://github.com/moguedes/memory-game-js-vanilla/archive/refs/heads/main.zip">Download</a>🔗 the source code as a zip file..<br>
 ◽ Clone this repository using Git Bash + the command:
 
        $ git clone colocar link
