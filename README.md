@@ -46,7 +46,7 @@
 ✅ Algorithm shuffles the cards automatically. <br>
 ✅ Algorithm checks if the cards match. <br>
 ✅ CSS: FlexBox and Grid Layout. <br>
-✅ CSS `transform-style: preserve-3d;` property creates a sense of 3D on the cards. <br><br>
+✅ CSS `transform-style: preserve-3d;` property creates a sense of 3D on the cards. <br>
 
 <h3 id="features">📍 Features</h3>
 
