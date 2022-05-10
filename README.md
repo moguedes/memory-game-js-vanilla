@@ -8,6 +8,7 @@
 ◽ <a href="#requirement">Requirement</a> <br>
 ◽ <a href="#access-project">Access Project</a> <br>
 ◽ <a href="#techstack">Tech Stack</a> <br>
+◽ <a href="#about">About</a> <br>
 ◽ <a href="#features">Features</a> <br>
 ◽ <a href="#preview">Preview</a> <br>
 ◽ <a href="#status">Project Status</a> <br>
@@ -38,10 +39,18 @@
   <img align="center" alt="Magno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<h3 id="features">📍 Features</h3>
+<h3 id="about">📍 About</h3>
 
+✅ Built using MVC design pattern. <br>
 ✅ Algorithm creates the cards automatically. <br>
 ✅ Algorithm shuffles the cards automatically. <br>
+✅ Algorithm checks if the cards match. <br>
+✅ CSS: FlexBox and Grid Layout. <br>
+✅ CSS `transform-style: preserve-3d;` property creates a sense of 3D on the cards. <br><br>
+
+<h3 id="features">📍 Features</h3>
+
+✅ Game over modal. <br>
 ✅ LockMode. <br>
 ✅ Score system. <br>
 ✅ Score ranking system fetching from localstorage. <br>
