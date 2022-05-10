@@ -16,7 +16,7 @@
 
 <h3 id="start">🚀 Start</h3>
 
-[Start Game](colocar link)
+[Start Game](https://moguedes.github.io/memory-game-js-vanilla/)
 
 <h3 id="Requirement">📋 Requirement</h3>
 
