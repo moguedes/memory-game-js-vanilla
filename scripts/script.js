@@ -182,9 +182,10 @@ const saveUser = () => {
   createUser(user);
 };
 
-const createRow = (user) => {
+const createRow = (user, initial = 1) => {
   const newRow = document.createElement("tr");
   newRow.innerHTML = `
+        <td>#${initial+1}</td>
         <td>${user.name}</td>
         <td>${user.moves}</td>
     `;
